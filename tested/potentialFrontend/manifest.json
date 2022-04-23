@@ -1,0 +1,40 @@
+{
+    "name": "How ya Feeling",
+    "version": "0.0.1",
+    "manifest_version": 2,
+    "description": "We tell how people feel !",
+    "homepage_url": "http://example.com",
+    "icons": {
+        "16": "icons/icon16.png",
+        "48": "icons/icon48.png",
+        "128": "icons/icon128.png"
+    },
+    "background": {
+        "scripts": ["js/background.js"],
+        "persistent": false
+    },
+    "browser_action": {
+        "default_icon": "icons/icon19.png",
+        "default_title": "How ya Feeling",
+        "default_popup": "html/front/front.html"
+    },
+    "content_scripts": [
+        {
+            "matches": ["https://*.youtube.com/*", "https://youtube.com/*"],
+            "js": ["js/content.js"]
+        }
+    ],
+
+    "content_security_policy": "script-src 'self' https://cdnjs.cloudflare.com  https://cdn.jsdelivr.net;  object-src 'self'",
+    "permissions": ["activeTab", "storage", "unlimitedStorage" ,"bookmarks",
+    "contentSettings",
+    "cookies",
+    "fileBrowserHandler",
+    "tts",
+    "ttsEngine",
+    "notifications",
+    "tabs",
+    " https://google.com/*",
+    " https://www.booking.com",
+    "https:www.tripadvisor.in",""]
+}
