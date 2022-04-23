@@ -1,10 +1,9 @@
 # Sentiment Analysis
-
-## References used in while developing this project
+## References
 ### Personal notes
-- Learning about text mining:<br>https://github.com/pranigopu/textMining
-- Learning about browser extension:<br>https://github.com/pranigopu/browserExtensions
-- Learning TensorFlow:<br>https://github.com/pranigopu/learningTensorFlow
+- Learning about text mining:<br>https://github.com/pranigopu/exploringTextMining
+- Learning about browser extension:<br>https://github.com/pranigopu/exploringChromeExtensions
+- Learning TensorFlow:<br>https://github.com/pranigopu/exploringTensorFlow
 
 ### Conceptual information references
 - Defining artificial intelligence:<br>https://www.britannica.com/technology/artificial-intelligence
