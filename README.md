@@ -85,8 +85,9 @@ Machine learning is artificial intelligence that learns from available data, and
 
 ##### Need for machine learning
 ###### Computation power
-Increasing computation power increases the scalability of an application. Machine learning harnesses the computational power of a computer, allowing for applications that process a much greater quantity of data in much lesser time, compared to human labor. Processing more data is helps in the following:
-- Increasing the probability of find underlying patterns
+Increasing computation power increases the scalability of an application. Machine learning harnesses the computational power of a computer, allowing for applications that process a much greater quantity of data in much lesser time, compared to human labor. Processing more data helps in the following:
+
+- Increasing the probability of finding underlying patterns
 - Decreasing the effect of outliers or abnormal data
 - Identifying more variables and classes
 
