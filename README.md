@@ -1,4 +1,11 @@
 # Sentiment Analysis
+A repository that contains test codes and notes for sentiment analysis, in preparation for the main project: [sentiMiner](https://github.com/pranigopu/sentiMiner).
+
+## Contributors
+
+- Hyeok Kim (a.k.a. Kim-Hyeok)
+- Pranav Gopalkrishna (a.k.a. Prani Gopu)
+
 ## References
 ### Personal notes
 - Learning about text mining:<br>https://github.com/pranigopu/exploringTextMining
