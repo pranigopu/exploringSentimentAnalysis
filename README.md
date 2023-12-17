@@ -2,6 +2,7 @@
 This repository that contains test codes and notes for sentiment analysis, in preparation for the main project: [sentiMiner](https://github.com/pranigopu/sentiMiner).
 
 ## Contributors
+Although the files were uploaded to this repository by one person (i.e. Pranav Gopalkrishna a.k.a. Prani Gopu), the test codes were largely the work of Hyeok Kim a.k.a. Kim-Hyeok. These codes were later integrated into the Django-based backend of the main project (with appropriate modifications).
 
 - Hyeok Kim (a.k.a. Kim-Hyeok)
 - Pranav Gopalkrishna (a.k.a. Prani Gopu)
