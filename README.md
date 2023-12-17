@@ -4,9 +4,10 @@ This repository that contains test codes and notes for sentiment analysis, in pr
 ## Contributors
 
 - Hyeok Kim (a.k.a. Kim-Hyeok)
+- Barath Sudhakar
 - Pranav Gopalkrishna (a.k.a. Prani Gopu)
 
-**NOTE**:<br>Although the files were uploaded to this repository by one person (i.e. Pranav Gopalkrishna a.k.a. Prani Gopu), the test codes were largely the work of Hyeok Kim a.k.a. Kim-Hyeok. These codes were later integrated into the Django-based backend of the main project (with appropriate modifications).
+**NOTE**:<br>Although the files were uploaded to this repository by one person (i.e. Pranav Gopalkrishna a.k.a. Prani Gopu), the test codes for text mining and sentiment analysis were largely the work of Hyeok Kim a.k.a. Kim-Hyeok. These codes were later integrated into the Django-based backend of the main project (with appropriate modifications). Similarly, though the potential frontend files were uploaded by Pranav Gopalkrishna, they were in fact the work of Barath Sudhakar.
 
 ## References
 ### Personal notes
