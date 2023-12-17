@@ -1,5 +1,5 @@
 # Sentiment Analysis
-A repository that contains test codes and notes for sentiment analysis, in preparation for the main project: [sentiMiner](https://github.com/pranigopu/sentiMiner).
+This repository that contains test codes and notes for sentiment analysis, in preparation for the main project: [sentiMiner](https://github.com/pranigopu/sentiMiner).
 
 ## Contributors
 
